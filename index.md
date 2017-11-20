@@ -9,6 +9,6 @@ My [mathematics master thesis](/docs/The%20Eilenberg-MacLane%0ATheorem%20for%20S
 
 A generalization of the [Tannaka Duality](/docs/TannakaDuality.pdf) for finite groups with arbitrary fields. (Seminar exposé)
 
-A seminar exposé together with Viet-Anh Nguyen on integrable models in statistical mechanics, the Young-Baxter equation and [Quantum groups (french)](/docs/GroupesQuantiques.pdf ) 
+A seminar exposé together with Viet-Anh Nguyen on integrable models in statistical mechanics, the Young-Baxter equation and [Quantum groups (french)](/docs/GroupesQuantiques.pdf ) .
 
-[Curriculum vitae](/docs/Julian_Bitterwolf_CV.pdf)
+My [Curriculum vitae](/docs/Julian_Bitterwolf_CV.pdf) .
