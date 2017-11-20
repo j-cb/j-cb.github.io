@@ -13,4 +13,4 @@ A generalization of the [Tannaka Duality](/docs/TannakaDuality.pdf) for finite g
 
 A seminar exposé together with Viet-Anh Nguyen on integrable models in statistical mechanics, the Young-Baxter equation and [Quantum groups (french)](/docs/GroupesQuantiques.pdf ).
 
-My [Curriculum vitae](/docs/Julian_Bitterwolf_CV.pdf).
+My [curriculum vitae](/docs/Julian_Bitterwolf_CV.pdf).
